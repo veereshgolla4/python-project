@@ -1,0 +1,16 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,1,3,"Allen, Miss. Elisabeth W.",female,29,0,0,24160,211.34,B5,S
+2,0,1,"Moran, Mr. James",male,27,0,0,330877,8.05,,Q
+3,1,3,"McCarthy, Mr. Timothy J.",male,54,0,0,17463,51.86,E46,S
+4,1,1,"Bonnell, Miss. Elizabeth",female,58,0,0,113783,153.46,C103,S
+5,0,3,"Palsson, Master. Gosta Leonard",male,2,3,1,349909,21.07,,S
+6,0,3,"Johnson, Mrs. Oscar W.",female,34,1,0,347742,23.45,,S
+7,1,2,"Nasser, Mrs. Nicholas",female,21,1,0,237736,26.0,D36,C
+8,0,2,"Sandstrom, Miss. Marguerite R.",female,4,1,1,PP 9549,16.7,G6,S
+9,1,3,"Bonnell, Miss. Susan",female,45,0,0,113783,153.46,C103,S
+10,0,1,"Rice, Master. Eugene",male,5,4,1,382652,29.12,,Q
+11,1,3,"Montvila, Rev. Juozas",male,45,0,0,211536,13.0,,S
+12,0,1,"Goldschmidt, Mr. George B.",male,71,0,0,PC 17601,120.0,C92,C
+13,1,3,"Lindblom, Miss. Augusta Charlotta",female,42,1,1,250649,10.5,,S
+14,0,3,"Hays, Miss. Margaret Bechstein",female,24,0,0,11767,45.0,B96 B98,C
+15,1,2,"Carter, Miss. Lucile Polk",female,18,1,2,113760,56.5,,S
